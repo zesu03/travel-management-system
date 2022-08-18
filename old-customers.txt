@@ -1,0 +1,7 @@
+
+Customer ID: 3
+Name: Zeeshan
+Age: 44
+Mobile Number: 3333333333
+Address: 5
+Gender: m
